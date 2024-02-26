@@ -1,5 +1,5 @@
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=FF0000&background=887E7200&center=true&vCenter=true&random=false&width=435&lines=I'm+Carlos!%F0%9F%98%BD)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=60&pause=1000&color=74DBFF&background=000000&center=true&vCenter=true&random=false&width=435&lines=I'm+Carlos!%F0%9F%98%BD)](https://git.io/typing-svg)
 
 :star: Currently, i'm a student at Instituto Federal do Paraná - Campus União da Vitória
 
