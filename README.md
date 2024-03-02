@@ -19,8 +19,6 @@
 
 </p> 
 <hr>
-<img src="https://media.tenor.com/v63_brUy45wAAAAi/peach-goma-love-peach-cat.gif" height="150" width="150" align="right"> 
-<img src="https://media.tenor.com/wIev1fUt-M8AAAAi/peach-goma-peach-and-goma.gif" height="150" width="150" align="left"> 
 
 <h4 align="center"> 
 <blockquote cite="https://www.biblegateway.com/passage/?search=Song%20of%20Solomon%206%3A3&version=KJV"> "I am my beloved's and my beloved is mine;"
