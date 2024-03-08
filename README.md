@@ -21,7 +21,8 @@
 <hr>
 
 <h4 align="center"> 
-<blockquote cite="https://www.biblegateway.com/passage/?search=Song%20of%20Solomon%206%3A3&version=KJV"> "I am my beloved's and my beloved is mine;"
+<blockquote cite="https://www.biblegateway.com/passage/?search=Song%20of%20Solomon%206%3A3&version=KJV"> 
+<a href="https://www.biblegateway.com/passage/?search=Song%20of%20Solomon%206%3A3&version=KJV"> "I am my beloved's and my beloved is mine;" <a>
 </blockquote>
 
 </h4>
